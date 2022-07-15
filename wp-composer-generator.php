@@ -2,9 +2,12 @@
 
 /**
  * Plugin Name: Composer Generator
+ * Plugin URI: https://github.com/ross-mulcahy/wp-composer-generator
  * Description: Create composer.json file from current plugins available on WPackagist.org.
+ * Text Domain: wp-composer-generator
  * Author: Ross Mulcahy
- * License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+ * License: GPLv3 - http://www.gnu.org/licenses/gpl-3.0.html
+ * Version: 0.1
  */
 
 function active_site_plugins() {
