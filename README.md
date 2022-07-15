@@ -1,2 +1,2 @@
 # wp-composer-generator
-Create composer.json file from current plugins available on WPackagist.org.
+Create composer.json file from currently installed plugins available on WPackagist.org.
